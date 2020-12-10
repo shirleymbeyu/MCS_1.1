@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1572425846 source:c:\users\user\desktop\myfirstprogram\operators\main.c
+	<stdio.h>
+	<math.h>
+
+1607598846 source:c:\users\admin\desktop\jkuat\mcs 1.1\c programming\myfirstprogram\operators\main.c
+	<stdio.h>
+	<math.h>
+
