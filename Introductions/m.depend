@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607605711 source:c:\users\admin\desktop\jkuat\mcs 1.1\c programming\myfirstprogram\m\main.c
+	<stdio.h>
+	<stdlib.h>
+
